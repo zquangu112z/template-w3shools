@@ -1,0 +1,13 @@
+.list-group {
+    margin-bottom: 0px;
+    font-size: 21px;
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #f1f1f1;
+}
+.list-group-item {
+    background-color: #f1f1f1;
+}
+.sublist-group-header {
+    margin: 0px;
+    padding: 10px;
+}
